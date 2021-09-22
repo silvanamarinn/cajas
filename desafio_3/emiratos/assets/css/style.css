@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.left_rec{
+    background-color: red;
+    width: 27%;
+    height: 60em;
+    float: left;
+}
+.display{
+    display: inline-block;
+    margin: 0;
+    }
+
+
+.top_rec{
+  background-color: rgb(0, 112, 43);
+    width: 73%;
+    height: 20em;
+    box-sizing: border-box;
+}
+
+.middle_rec{
+    background-color: rgb(112, 0, 112);
+    width: 73%;
+    margin: 0;
+    height: 19.5em;
+    box-sizing: border-box;
+    visibility: hidden;
+}
+
+.bottom_rec{
+    background-color: rgb(0, 0, 0);
+    width: 73%;
+    height: 20em;
+    box-sizing: border-box;
+}
+
+
+
+
