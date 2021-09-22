@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+}
+
+.box{
+
+    width: 24em;
+    height: 24em;
+    background-color: red;
+
+}
+
+.rec{
+
+    width: 80em;
+    height: 24em;
+    background-color: red;
+}
+
+.top{
+    display: inline-block;
+}
+
+.righttop_rec{
+
+    float: right;
+}
+
+.bottom{
+    display: inline-block;
+    margin-top: 7em;
+ 
+    
+}
+
+.leftbottom_rec{
+    
+    position: bottom;
+}
+
+
+
+
