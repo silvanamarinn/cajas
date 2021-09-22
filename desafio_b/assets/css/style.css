@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    }
+    
+    .main {
+    margin: 5px;
+    overflow: auto;
+    }
+
+
+
+    .box {
+
+    height: 100px;
+    box-sizing:border-box;
+    display: inline-block;
+    width: 20%;
+    margin: 2em;
+    
+    
+    
+    }
+/*.caja{
+    display: inline-block;
+    width: 20%;
+    margin: 2em;
+}*/
+
+.psolo{
+    line-height: 1.7em;
+    margin: 2em;
+}
+.center{
+    text-align: center;
+}
+
+.imgbox{
+    width: 80%;
+    text-align: center;
+    float:none;
+    
+   
+}
