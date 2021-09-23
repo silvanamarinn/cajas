@@ -1,0 +1,91 @@
+.principal {
+    float: left;
+    margin:10px;
+}
+
+.flag {
+    width: 700px;
+    height: 500px;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+.flag_espana {
+    background-color: red;
+}
+
+.flag_espanayellow {
+    background-color:yellow;
+    height:150px;
+    position:relative;
+    top:11em;
+}
+
+.flag_dinamarca {
+    background-color: red;
+
+}
+
+.flag_dinamarcawhite{
+    background-color: white;
+    height: 50px;
+    top:12em;
+    position:relative;
+}
+
+.flag_dinamarcawhite-vertical {
+    background-color: white;
+    height: 31.1em;
+    width: 50px;
+    
+    
+    position:relative;
+    left:90px;
+    bottom:50px;
+}
+
+.flag_emiratos  {
+    background-color: red;
+}
+
+.flag_emiratos-verde {
+    background-color:green;
+    height: 10.5em;
+    width: 500px;
+    position: relative;
+    float:right;
+}
+.flag_emiratos-blanco {
+    background-color: white;
+    height: 10.5em;
+    width: 500px;
+    position: relative;
+    float:right;
+}
+.flag_emiratos-negro {
+    background-color:black;
+    height: 10.2em;
+    width: 500px;
+    position: relative;
+    float:right;
+}
+
+.japan {
+    background-color:white;
+}
+
+.flag_japancirculo {
+    background-color: red;
+    height:200px;
+    width: 200px;
+    border-radius: 50%;
+    position:relative;
+    top: 50%;
+    
+    }
+
+.hiden{
+    background-color: aquamarine;
+    width: 200px;
+    height: 500px;
+}

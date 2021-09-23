@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+
+.ribbon{
+    display: inline-block;
+    margin-right: 40px;
+    position: relative;
+    right:100%;
+    
+  
+
+}
+
+.img{
+   display: inline-block;
+   
+   
+    
+
+}
+
+div{
+    display: inline-block;
+}
+
