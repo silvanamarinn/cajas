@@ -1,6 +1,12 @@
+h3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .principal {
     float: left;
-    margin:10px;
+    margin:18px;
+    position: relative;
+    left: 9%;
 }
 
 .flag {
@@ -14,7 +20,7 @@
     background-color: red;
 }
 
-.flag_espanayellow {
+.flag_espana-amarillo {
     background-color:yellow;
     height:150px;
     position:relative;
@@ -26,18 +32,17 @@
 
 }
 
-.flag_dinamarcawhite{
+.flag_dinamarca-blanco{
     background-color: white;
     height: 50px;
     top:12em;
     position:relative;
 }
 
-.flag_dinamarcawhite-vertical {
+.flag_dinamarblanco-vertical {
     background-color: white;
     height: 31.1em;
     width: 50px;
-    
     
     position:relative;
     left:90px;
@@ -80,12 +85,10 @@
     width: 200px;
     border-radius: 50%;
     position:relative;
-    top: 50%;
+    top: 30%;
+    left:35%;
+    
+    
     
     }
 
-.hiden{
-    background-color: aquamarine;
-    width: 200px;
-    height: 500px;
-}
